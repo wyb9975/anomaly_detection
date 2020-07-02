@@ -1,0 +1,2 @@
+# anomaly_detection
+本次代码为对wine_benchmark和abalone_benchmark用pyod进行离群点检测。
